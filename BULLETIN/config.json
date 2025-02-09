@@ -1,0 +1,56 @@
+{
+  "salaire_base_taux": 13.48,
+  "heures_base": 151.69,
+  "coef_revalorisation": 1.4847,
+  "maj_125": {
+    "heures": 1.21,
+    "taux": 17.06
+  },
+  "dimanche": {
+    "heures": 6.42,
+    "majoration": 4.04
+  },
+  "nuit_8": {
+    "heures": 19,
+    "supp": 20.52
+  },
+  "nuit_20": {
+    "heures": 7.48,
+    "supp": 20.20
+  },
+  "habillage": {
+    "heures": 20,
+    "taux": 0.20
+  },
+  "rappel": 4.15,
+  "absence": {
+    "heures": 0.30,
+    "taux": 13.48
+  },
+  "indemnite_entretien": 3.0,
+  "cotisations": {
+    "sante": 0.07,
+    "complementaire_sante": 0.00320,
+    "invalidite_deces": 0.00568,
+    "retraite_plafonnee": 0.069,
+    "retraite_deplafonnee": 0.004,
+    "complementaire_tranche1": 0.0401,
+    "csg_deductible": 0.068,
+    "csg_non_deductible": 0.029,
+    "cs_sup_hours": 0.097
+  },
+  "cotisations_patronales": {
+    "sante": 0.00569,
+    "retraite_plafonnee": 0.0855,
+    "retraite_deplafonnee": 0.0202,
+    "invalidite_deces": 0.00852,
+    "accidents_travail": 0.0376,
+    "chomage": 0.043,
+    "complementaire_tranche1": 0.0601,
+    "allocations_familiales": 0.0345,
+    "autres": 132.58
+  },
+  "base_complementaire_sante": 3864.00,
+  "allègement_taux": 0.256,
+  "taux_impot": 0.059
+}
